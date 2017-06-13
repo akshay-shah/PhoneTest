@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791673337920",
+    "firebase_url": "https://phonetest-a63c4.firebaseio.com",
+    "project_id": "phonetest-a63c4",
+    "storage_bucket": "phonetest-a63c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791673337920:android:bfd5a88834351634",
+        "android_client_info": {
+          "package_name": "com.knightdevs.phonetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791673337920-kpolm6hqa0glqq0jr6jt9b6mlv7pn0pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.knightdevs.phonetest",
+            "certificate_hash": "1020e576915f753f56bc1eb0726ee874de9ef583"
+          }
+        },
+        {
+          "client_id": "791673337920-aq8seqmoeqat307kisob435upds1o9k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqIEKLObLNsSiZr_Vt7H0BaJHhNHBChc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791673337920-aq8seqmoeqat307kisob435upds1o9k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
