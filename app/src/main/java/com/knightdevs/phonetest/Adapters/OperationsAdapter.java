@@ -1,5 +1,6 @@
 package com.knightdevs.phonetest.Adapters;
 
+import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,7 +17,10 @@ import com.knightdevs.phonetest.R;
 
 public class OperationsAdapter extends RecyclerView.Adapter<OperationsAdapter.OperationsViewHolder> {
 
-    public OperationsAdapter() {
+    private Context context;
+
+    public OperationsAdapter(Context context) {
+        this.context = context;
     }
 
     @Override
