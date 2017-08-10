@@ -31,10 +31,15 @@ public class Constants {
                 add(R.drawable.battery);
                 add(R.drawable.wifi);
                 add(R.drawable.camera);
+                add(R.drawable.ic_colors);
+                add(R.drawable.ic_keyboard);
+                add(R.drawable.ic_earpiece);
+                add(R.drawable.ic_speakers);
                 add(R.drawable.sensor);
                 add(R.drawable.microphone);
                 add(R.drawable.bluetooth);
                 add(R.drawable.sim);
+                add(R.drawable.ic_button);
                 // etc
             }});
 
