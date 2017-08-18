@@ -36,6 +36,7 @@ public class Constants {
                 add(R.drawable.ic_earpiece);
                 add(R.drawable.ic_speakers);
                 add(R.drawable.sensor);
+                add(R.drawable.sensor);
                 add(R.drawable.microphone);
                 add(R.drawable.bluetooth);
                 add(R.drawable.sim);

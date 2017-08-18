@@ -31,7 +31,8 @@ public class OperationsAdapter extends RecyclerView.Adapter<OperationsAdapter.Op
 
     @Override
     public void onBindViewHolder(OperationsViewHolder holder, int position) {
-
+        holder.imageViewOperations.setImageDrawable(context.getResources().getDrawable(Constants.operationsImages.get(position)));
+        holder.textViewTitle.setText(Constants.operations.get(position));
     }
 
     @Override
